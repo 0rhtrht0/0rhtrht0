@@ -33,7 +33,7 @@
 
 | Projet | Description | Langage |
 |--------|-------------|---------|
-| [ft_transandance](https://github.com/0rhtrht0/ft_transandance) | Projet web full-stack (cursus 42) | JavaScript |
+| [ft_transcendance](https://github.com/0rhtrht0/ft_transcendance) | Projet web full-stack (cursus 42) | JavaScript |
 | [hackaton](https://github.com/0rhtrht0/hackaton) | App karaoké développée lors d'un hackathon | C |
 | [42-scool](https://github.com/0rhtrht0/42-scool) | Exercices et projets de l'école 42 | C |
 
